@@ -91,7 +91,6 @@ default_settings_if_no_settings = f"""🛠️ __**Server Settings**__ 🛠️
 			· Rolls per hour: **10** ($setrolls)
 			· Time before the claim reaction expires: **30** sec. ($settimer)
 			· Spawn rarity multiplicator for already claimed characters: **2** ($setrare)
-
 			· % kakera bonus: **+0** ($setkakerabonus)
 			· Game mode: **1** ($gamemode)
 			· This channel instance: **1** ($channelinstance)
@@ -108,6 +107,7 @@ default_settings_if_no_settings = f"""🛠️ __**Server Settings**__ 🛠️
 			· Reacts: ****for all your rolls**** ($togglereact)
 			· Custom reactions: yes ($claimreact list)
 			· Kakera reactions more recognizable: no ($kakerareact switchset)
+
 			· Kakera trading: **disabled** ($togglekakeratrade)
 			· Kakera calculation: claim and like ranks (and number of claimed characters) ($togglekakeraclaim/$togglekakeralike)
 			· Kakera value displayed during rolls: enabled ($togglekakerarolls)
