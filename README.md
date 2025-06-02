@@ -51,7 +51,7 @@ You'll be able to leave the window running in the background, and not need to th
 
 ## Requirements
 
-+ Python 3.7+
++ Python 3.7 to 3.12
 + discum 1.3+ (no longer maintained)
 + discord.py-self
 
