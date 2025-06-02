@@ -13,9 +13,9 @@
 	"kak_delay":9,
 	"use_emoji":"<:keqing_love:795077041761288214>",
 	"roll_this":"wg",
-	"rolling":"True",
-	"slash_rolling":"True",
-	"pkmrolling":"True",
+	"rolling":true,
+	"slash_rolling":true,
+	"pkmrolling":true,
 	"series_list":[
 		"Honkai Impact 3rd"
 	],
@@ -39,7 +39,7 @@
 		"KakeraL"
 	],
 	"min_kak":500,
-	"Last_True":"True",
+	"Last_True":true,
 	"last_claim_min": 61,
 	"min_kak_last_min": 10
 }
