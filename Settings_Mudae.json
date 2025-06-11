@@ -1,10 +1,10 @@
 {
     "token":"1",
     "channel_ids":[
-        111111111111111
+       111111111111111
     ],
     "slash_ids":[
-        11111111111111
+       11111111111111
     ],
     "slash_guild_ids":[
         111111111111111
@@ -23,7 +23,7 @@
         "Raiden Mei"
     ],
     "emoji_list":[
-        "kakera",    
+        "kakera",
         "kakeraT",
         "kakeraG",
         "kakeraY",
